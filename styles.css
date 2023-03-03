@@ -41,3 +41,9 @@ img {
 p {
 	display: flex
 }
+
+.big-yellow-button {
+	background-color: yellow;
+	padding: 10px;
+	border-radius: 100px;
+}
